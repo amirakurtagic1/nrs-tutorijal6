@@ -1,0 +1,17 @@
+.center {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+background-color: bisque;
+}
+
+.proba{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
